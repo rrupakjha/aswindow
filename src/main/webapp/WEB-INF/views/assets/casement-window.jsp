@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<!-- <head>
+
 <meta charset="utf-8">
 <title>uPVC Window Suppliers in Gurugram | uPVC Window Suppliers</title>
 <meta name="description" content="AS Window, we are well-reckoned best Quality manufacturer and provider of aluminum, uPVC Window Suppliers in Gurugram."/>
@@ -12,28 +12,19 @@
    <meta property="og:site_name" content="uPVC Window Suppliers in Gurugram" />
    <meta property="og:description" content="AS Window, we are well-reckoned best Quality manufacturer and provider of aluminum, uPVC Window Suppliers in Gurugram." />
    <meta property="og:image" content="https://www.aswindow.in/images/logo.png" />
-	<link rel="canonical" href="https://www.aswindow.in/casement-window.html" />
-Stylesheets
+	<link rel="canonical" href="https://www.aswindow.in/casement-window" />
+<!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
-MasterSlider
+<!--MasterSlider-->
 <link rel="stylesheet" href="css/masterslider/style/masterslider.css" />
 <link href="css/masterslider/skins/default/style.css" rel="stylesheet">
 <link href="css/masterslider/style/ms-caro3d.css" rel="stylesheet">
-End MasterSlider
+<!--End MasterSlider-->
 
-<link href="css/style.css" rel="stylesheet">
-<link href="css/slick.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
-
-Responsive
+<!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]
-[if lt IE 9]><script src="js/respond.js"></script><![endif]
-</head> -->
 	<%@include file="head.jsp" %>
 
 <body>

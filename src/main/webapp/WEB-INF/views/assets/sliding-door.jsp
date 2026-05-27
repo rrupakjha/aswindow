@@ -12,7 +12,7 @@
    <meta property="og:site_name" content="uPVC Doors Manufacturers in Delhi" />
    <meta property="og:description" content="AS Window is the top company Which Manufacture and Supply uPVC, uPVC Doors Manufacturers in Delhi Gurgaon and NCR." />
    <meta property="og:image" content="https://www.aswindow.in/images/logo.png" />
-	<link rel="canonical" href="https://www.aswindow.in/sliding-door.html" />
+	<link rel="canonical" href="https://www.aswindow.in/sliding-door" />
 <!-- Stylesheets -->
 <%@include file="head.jsp" %>
 </head>

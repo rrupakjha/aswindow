@@ -89,7 +89,7 @@
 						<div class="logo">
 							<a href="${pageContext.request.contextPath}/"><img src="${imagepath}footer-logo.png" alt="uPVC Windows and Doors Manufacturer" title="uPVC Windows & Doors Manufacturer"/></a>
 						</div>
-						<div class="copyright">Copyright © 2022 Aswindow - All rights reserved.</div>
+						<div class="copyright">Copyright © 2026 Aswindow - All rights reserved.</div>
 					</div>
 					
 					

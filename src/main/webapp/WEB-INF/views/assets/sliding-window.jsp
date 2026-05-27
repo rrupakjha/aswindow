@@ -12,7 +12,7 @@
    <meta property="og:site_name" content="uPVC Windows Manufacturers Gurugram" />
    <meta property="og:description" content="AS Window, we are well-reckoned best Quality manufacturer and provider of aluminum, uPVC Window Suppliers in Gurugram." />
    <meta property="og:image" content="https://www.aswindow.in/images/logo.png" />
-	<link rel="canonical" href="https://www.aswindow.in/sliding-window.html" />
+	<link rel="canonical" href="https://www.aswindow.in/sliding-window" />
 <!-- Stylesheets -->
 <%@include file="head.jsp" %>
 </head>
