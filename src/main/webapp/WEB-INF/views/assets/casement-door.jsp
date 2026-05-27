@@ -12,7 +12,7 @@
    <meta property="og:site_name" content="uPVC Doors Suppliers in Delhi NCR" />
    <meta property="og:description" content="AS Window No-1 uPVC Doors Suppliers in Delhi NCR. Best UPVC Doors Price, Sliding Doors, Soundproof doors, Heat Resistance Doors Windows, Grey Aluminium Doors in Delhi." />
    <meta property="og:image" content="https://www.aswindow.in/images/logo.png" />
-	<link rel="canonical" href="https://www.aswindow.in/casement-door.html" />
+	<link rel="canonical" href="https://www.aswindow.in/casement-door" />
 <!-- Stylesheets -->
 <%@include file="head.jsp" %>
 </head>

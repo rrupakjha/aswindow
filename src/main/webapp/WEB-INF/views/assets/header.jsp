@@ -75,7 +75,7 @@
         	<div class="auto-container clearfix">
             	<!--Logo-->
             	<div class="logo pull-left">
-                	<a href="${pageContext.request.contextPath}/" class="img-responsive"><img src="${AwsCdnBean.image}images/logo-small.png" alt="uPVC Windows and Doors Manufacturer Suppliers in Delhi" title="uPVC Windows & Doors Manufacturer Suppliers in Delhi"></a>
+                	<a href="${pageContext.request.contextPath}/" class="img-responsive"><img src="${imagepath}logo-small.png" alt="uPVC Windows and Doors Manufacturer Suppliers in Delhi" title="uPVC Windows & Doors Manufacturer Suppliers in Delhi"></a>
                 </div>
                 
                 <!--Right Col-->

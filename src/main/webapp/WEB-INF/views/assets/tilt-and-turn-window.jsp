@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Best uPVC Windows & uPVC Doors Manufacturers Company</title>
+<meta name="description" content="Get premium tilt and turn windows in Delhi NCR from AS Windows. Energy-efficient, secure and stylish UPVC window solutions for modern homes and offices.">
 <!-- Stylesheets -->
 <%@include file="head.jsp" %>
 </head>

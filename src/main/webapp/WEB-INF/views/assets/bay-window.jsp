@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Best uPVC Windows & uPVC Doors Manufacturers Company</title>
+<meta name="description" content="AS Windows offers elegant bay windows in Delhi NCR designed for better ventilation, natural light and modern aesthetics with premium UPVC window solutions.">
 <!-- Stylesheets -->
 <%@include file="head.jsp" %>
 </head>

@@ -1,5 +1,15 @@
 <!DOCTYPE html>
 <html>
+<meta name="description" content="AS Window is one of the largest uPVC windows and doors manufacturers in Delhi offering sliding UPVC windows, system aluminium solutions and affordable UPVC windows & doors price in Delhi NCR."/>
+	<meta name="keywords" content="uPVC Windows and Doors Manufacturer Suppliers in Delhi, uPVC Windows and Doors Manufacturer, uPVC Windows and Doors Suppliers, uPVC Windows and uPVC Doors, uPVC Windows, uPVC Doors, uPVC windows in Delhi, AS Window"/> 
+	<meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+   <meta property="og:title" content="uPVC Windows and Doors Manufacturer Suppliers in Delhi" />
+   <meta property="og:url" content="https://www.aswindow.in/" />
+   <meta property="og:site_name" content="uPVC Windows and Doors in Delhi" />
+   <meta property="og:description" content="AS Window is one of the largest uPVC windows and doors manufacturers and suppliers in Delhi. It provides quality uPVC doors and windows with guarantees. Contact for uPVC window and door." />
+   <meta property="og:image" content="https://www.aswindow.in/images/logo.png" />
+	<link rel="canonical" href="https://www.aswindow.in/" />
 	<%@include file="head.jsp" %>
 
 
@@ -127,7 +137,7 @@ Opp. NSIT</div>
 						<div class="image-outer">
 							<div class="image">
 								<img src="${imagepath}resource/service-1.jpg" alt="uPVC Windows and uPVC Doors" />
-								<a href="${AwsCdnBean.css}images/resource/service-1.jpg" class="overlay-box lightbox-image" data-fancybox="services-gallery" data-caption=""><span class="plus flaticon-plus-symbol"></span></a>
+								<a href="${imagepath}resource/service-1.jpg" class="overlay-box lightbox-image" data-fancybox="services-gallery" data-caption=""><span class="plus flaticon-plus-symbol"></span></a>
 							</div>
 						</div>
 						<div class="lower-content">
@@ -147,7 +157,7 @@ Opp. NSIT</div>
 						<div class="image-outer">
 							<div class="image">
 								<img src="${imagepath}resource/service-2.jpg" alt="Best uPVC Windows and uPVC Doors" />
-								<a href="${AwsCdnBean.css}images/resource/service-2.jpg" class="overlay-box lightbox-image" data-fancybox="services-gallery" data-caption=""><span class="plus flaticon-plus-symbol"></span></a>
+								<a href="${imagepath}resource/service-2.jpg" class="overlay-box lightbox-image" data-fancybox="services-gallery" data-caption=""><span class="plus flaticon-plus-symbol"></span></a>
 							</div>
 						</div>
 						<div class="lower-content">
@@ -168,7 +178,7 @@ Opp. NSIT</div>
 						<div class="image-outer">
 							<div class="image">
 								<img src="${imagepath}resource/service-3.jpg" alt="Best uPVC Windows and uPVC Doors" />
-								<a href="${AwsCdnBean.css}images/resource/service-3.jpg" class="overlay-box lightbox-image" data-fancybox="services-gallery" data-caption=""><span class="plus flaticon-plus-symbol"></span></a>
+								<a href="${imagepath}resource/service-3.jpg" class="overlay-box lightbox-image" data-fancybox="services-gallery" data-caption=""><span class="plus flaticon-plus-symbol"></span></a>
 							</div>
 						</div>
 						<div class="lower-content">
@@ -403,27 +413,27 @@ Opp. NSIT</div>
 							<div class="ms-slide">
 								<div class="content-layer">
 									<div class="image">
-										<a href="${AwsCdnBean.css}images/gallery/11.jpg" class="lightbox-image" data-fancybox="latest-gallery"><img src="${imagepath}gallery/11.jpg" alt="uPVC Windows & uPVC Doors" /></a>
+										<a href="${imagepath}gallery/11.jpg" class="lightbox-image" data-fancybox="latest-gallery"><img src="${imagepath}gallery/11.jpg" alt="uPVC Windows & uPVC Doors" /></a>
 									</div>
-									<h3><a href="gallery.html">Multipoint Lock System</a></h3>
+									<h3><a href="https://www.aswindow.in/gallery">Multipoint Lock System</a></h3>
 								</div>
 							</div>
 							<!--Slide-->
 							<div class="ms-slide">
 								<div class="content-layer">
 									<div class="image">
-										<a href="${AwsCdnBean.css}images/gallery/12.jpg" class="lightbox-image" data-fancybox="latest-gallery"><img src="${imagepath}gallery/12.jpg" alt="uPVC Doors" /></a>
+										<a href="${imagepath}gallery/12.jpg" class="lightbox-image" data-fancybox="latest-gallery"><img src="${imagepath}gallery/12.jpg" alt="uPVC Doors" /></a>
 									</div>
-									<h3><a href="gallery.html">Multipoint Lock System</a></h3>
+									<h3><a href="https://www.aswindow.in/gallery">Multipoint Lock System</a></h3>
 								</div>
 							</div>
 							<!--Slide-->
 							<div class="ms-slide">
 								<div class="content-layer">
 									<div class="image">
-										<a href="${AwsCdnBean.css}images/gallery/13.jpg" class="lightbox-image" data-fancybox="latest-gallery"><img src="${imagepath}gallery/13.jpg" alt="uPVC Windows" /></a>
+										<a href="${imagepath}gallery/13.jpg" class="lightbox-image" data-fancybox="latest-gallery"><img src="${imagepath}gallery/13.jpg" alt="uPVC Windows" /></a>
 									</div>
-									<h3><a href="gallery.html">Multipoint Lock System</a></h3>
+									<h3><a href="https://www.aswindow.in/gallery">Multipoint Lock System</a></h3>
 								</div>
 							</div>
 						</div>

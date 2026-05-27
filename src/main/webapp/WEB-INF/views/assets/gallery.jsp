@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Best uPVC Windows & uPVC Doors Manufacturers Company</title>
+<meta name="description" content="Browse AS Windows gallery showcasing premium UPVC windows, doors, sliding systems and aluminium solutions installed across Delhi NCR projects.">
 <!-- Stylesheets -->
 <%@include file="head.jsp" %>
 </head>

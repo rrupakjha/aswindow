@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Best uPVC Windows & uPVC Doors Manufacturers Company</title>
+<meta name="description" content="Discover high-performance lift and slide doors in Delhi NCR by AS Windows offering smooth operation, large openings, sound insulation and modern design.">
 <!-- Stylesheets -->
 <%@include file="head.jsp" %>
 </head>

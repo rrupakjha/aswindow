@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Best uPVC Windows & uPVC Doors Manufacturers Company</title>
+<meta name="description" content="Explore premium slide and fold doors by AS Windows in Delhi NCR. Stylish, space-saving and durable UPVC & aluminium folding door solutions for homes and offices.">
 <!-- Stylesheets -->
 <%@include file="head.jsp" %>
 </head>
