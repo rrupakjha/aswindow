@@ -56,10 +56,7 @@
 								<span class="icon flaticon-place"></span>
 							</div>
 							<h3>Visit Our Place</h3>
-							<div class="text">Plot No. - 36 , Third Floor 
-Mohit Nagar , <br/>Sector-14 
-Dwarka , New Delhi, 
-Opp. NSIT</div>
+							<div class="text">Plot No-522, Nangli Shakrawati Industrial Area, New Delhi</div>
 							
 						</div>
 					</div>
@@ -71,7 +68,7 @@ Opp. NSIT</div>
 								<span class="icon flaticon-phone-symbol-of-an-auricular-inside-a-circle"></span>
 							</div>
 							<h3>24/7 Quick Contact</h3>
-							<div class="text">18001206265<br> info@aswindow.in</div>
+							<div class="text">+91 9811440712<br> info@aswindow.in</div>
 							
 						</div>
 					</div>
@@ -82,8 +79,8 @@ Opp. NSIT</div>
 							<div class="icon-box">
 								<span class="icon flaticon-question"></span>
 							</div>
-							<h3>FA Questions</h3>
-							<div class="text">Here you to know all about uPVC <br> windows & Doors</div>
+							<h3>FAQ Questions</h3>
+                            <div class="text">Have questions about uPVC <br> windows & doors? Write to us</div>
 							
 						</div>
 					</div>
