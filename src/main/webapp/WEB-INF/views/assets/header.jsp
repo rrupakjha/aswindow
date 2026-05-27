@@ -12,7 +12,7 @@
                    	<!-- Main Menu End-->
 					<div class="outer-box clearfix">
 						<ul class="option-list">
-							<li><a href="tel:18001206265"><span class="icon flaticon-phone-symbol-of-an-auricular-inside-a-circle"></span> <strong>18001206265</strong></a></li>
+							<li><a href="tel:+919811440712"><span class="icon flaticon-phone-symbol-of-an-auricular-inside-a-circle"></span> <strong>+91 9811440712</strong></a></li>
 							<li><a href="mailto:info@aswindow.in"><span class="icon flaticon-mail"></span>info@aswindow.in</a></li>
 						</ul>
 					</div>
@@ -122,4 +122,4 @@
         </div>
         <!--End Sticky Header-->
     
-    </header>s
+    </header>

@@ -108,10 +108,7 @@
 					<span class="icon flaticon-place"></span>
 				</div>
 				<h2>Address</h2>
-				<div class="text">Plot No. - 36 , Third Floor 
-Mohit Nagar , Sector-14 <br/>
-Dwarka , New Delhi, 
-Opp. NSIT</div>
+				<div class="text">Plot No-522, Nangli Shakrawati Industrial Area, New Delhi</div>
 			</div>
 		</section>
     	<!--End Address Box-->
