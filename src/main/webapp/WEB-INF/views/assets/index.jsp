@@ -31,7 +31,7 @@
             <div class="slide" style="background-image:url('${imagepath}main-slider/image-1.jpg')">
                 <div class="auto-container">
                 	<div class="content">
-                   		<h2>uPVC Window</h2>
+                   		<h2 >uPVC Window</h2>
 						<h3>That Open For <span>You All.</span></h3>
                     	<div class="text">Renowned for its explicit products Aswindow is one of the most trusted brands around the globe. </div>
                     	
@@ -66,7 +66,7 @@
     <!--End Main Slider-->
     
     <!--Welcome Section-->
-    <section class="welcome-section">
+    <section class="welcome-section pt-5 pb-5 mt-5 mb-5">
     
     	<div class="auto-container">
     		<!--Sec Title-->
@@ -150,7 +150,7 @@ Opp. NSIT</div>
 						</div>
 					</div>
 				</div>
-				src="${imagepath}sambalpuri/bg2.jpeg
+			
 				<!--Services Block-->
 				<div class="services-block">
 					<div class="inner-box">
@@ -195,7 +195,95 @@ Opp. NSIT</div>
 			</div>
 		</div>
 	</section>
-   
+	
+		
+		<section class="services-section bg-white ">
+    	<div class="outer-container">
+    	
+			<div class="row owl-theme">
+				
+				
+				
+				<!--Services Block-->
+				
+				<div class="services-block col-lg-6">
+					
+				
+					<div class="inner-box ">
+						
+						<div class="lower-content text-center">
+							
+							<div class="icon-box">
+								<span class="icon flaticon-architecture-and-city"></span>
+							</div>
+							<h4 class="">Your home deserves windows and doors that work as hard as you do</h4>
+							<div class="text-justify text">Every morning, Delhi's heat, dust, and noise push through ordinary windows and wear your home down. AS Windows builds UPVC and aluminium solutions that push back - keeping your interiors cooler, quieter, and more secure all year round. Over 5,000 Delhi families have already made the switch. It is your turn.</div>
+					</div>
+				</div>
+				</div>
+				
+				<div class="services-block col-lg-6">
+					
+				
+					<div class="inner-box ">
+						
+						<div class="lower-content text-center">
+							
+							<div class="icon-box">
+								<span class="icon flaticon-window"></span>
+							</div>
+							<h4 class="">Windows that breathe life into every room</h4>
+							<div class="text-justify text">Whether you live in a compact flat in Rohini or a sprawling villa in Vasant Kunj, the right window changes everything. Our sliding UPVC windows Delhi collection brings in fresh air while locking out heat, dust, and traffic noise. Multi-track profiles, anti-dust gaskets, UV-resistant glass every detail is engineered for how Delhi actually lives. And when you check our UPVC windows Price in Delhi, you will find a figure that fits your budget without cutting corners on quality.</div>
+					</div>
+				</div>
+				</div>
+				
+				<div class="services-block col-lg-6">
+					<div class="inner-box">
+						
+						<div class="lower-content text-center">
+							
+							<div class="icon-box">
+								<span class="icon flaticon-money"></span>
+							</div>
+							<h4 class="">Doors that mean business</h4>
+							<div class="text-justify text">A front door is the first thing guests notice and the last line of defence at night. AS Windows crafts UPVC doors with reinforced steel cores and German multi-point locks that give you both. Our UPVC doors price in Delhi NCR covers every style from sleek bathroom doors to bold entrance units with clear quotes and no surprise additions at the end. </div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="services-block col-lg-6">
+					<div class="inner-box">
+						
+						<div class="lower-content text-center">
+							
+							<div class="icon-box">
+								<span class="icon flaticon-award"></span>
+							</div>
+							<h4 class="">Big projects need stronger systems</h4>
+							<div class="text-justify text">For offices, commercial complexes, and large residential facades, we go beyond UPVC. AS Windows is a trusted provider of system aluminium in Delhi precision-engineered profiles available in powder-coated and anodised finishes, built to handle large spans without compromise. </div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="key-block mx-auto mt-4">
+								<div class="inner-box">
+									<div class="icon-box">
+										<span class="icon flaticon-labor-man"></span>
+										
+									</div>
+									<div class="content">
+										<h3>The AS Windows promise </h3>
+										<div class="text">Free site visit. Accurate measurements. Transparent quote. Custom fabrication. Clean installation. Every project, every time - backed by a 25-year warranty and a team that answers your calls.</div>
+									</div>
+								</div>
+							</div>
+			</div>
+		</div>
+	</section>
+	
+    <!--End content Section-->
+	
   	<!--Window Tab Section-->
   	<section class="window-tab-section">
   		<div class="auto-container">
