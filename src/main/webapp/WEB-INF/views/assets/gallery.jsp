@@ -2,8 +2,8 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Best uPVC Windows & uPVC Doors Manufacturers Company</title>
-<meta name="description" content="Browse AS Windows gallery showcasing premium UPVC windows, doors, sliding systems and aluminium solutions installed across Delhi NCR projects.">
+<title>Our Gallery</title>
+<meta name="description" content="Browse our gallery to explore completed projects, modern designs, premium finishes, and expert craftsmanship that inspire your next residential or commercial space.">
 <!-- Stylesheets -->
 <%@include file="head.jsp" %>
 </head>

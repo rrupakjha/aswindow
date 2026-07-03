@@ -2,13 +2,12 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Best uPVC Doors and Windows Delhi | uPVC Doors and Windows Delhi</title>
-<meta name="description" content="AS Window, Best uPVC Doors and Windows Delhi, Supplier in Gurugram. Our uPVC windows are Efficient, Soundproof,
-Eco-Friendly, Durable."/>
+<title>About US</title>
+<meta name="description" content="AS Window, Best uPVC Doors and Windows Delhi, Supplier in Gurugram. Our uPVC windows are Efficient, Soundproof,Eco-Friendly, Durable."/>
 	<meta name="keywords" content="Best uPVC Doors and Windows Delhi, Best uPVC Doors and Windows, uPVC Doors and Windows Delhi, AS Window"/> 
 	<meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-   <meta property="og:title" content="Best uPVC Doors and Windows Delhi" />
+   <meta property="og:title" content="About Us" />
    <meta property="og:url" content="https://www.aswindow.in/" />
    <meta property="og:site_name" content="Best uPVC Doors and Windows Delhi" />
    <meta property="og:description" content="AS Window, Best uPVC Doors and Windows Delhi, Supplier in Gurugram. Our uPVC windows are Efficient, Soundproof,
