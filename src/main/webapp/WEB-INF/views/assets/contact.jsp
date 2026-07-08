@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>uPVC Doors and Windows Delhi NCR | uPVC Doors and Windows</title>
-<meta name="description" content="AS Window is one of the best uPVC Doors and Windows Delhi NCR. It provides quality uPVC doors and windows with guarantees. Contact for uPVC window and door."/>
+<title>Contact Us</title>
+<meta name="description" content="Have questions or need expert guidance? Reach out to our team for personalized assistance, quick responses, and a free consultation for your project."/>
 	<meta name="keywords" content="uPVC Doors and Windows Delhi NCR, uPVC Doors and Windows, AS Window"/> 
 	<meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-   <meta property="og:title" content="uPVC Doors and Windows Delhi NCR" />
+   <meta property="og:title" content="Contact us" />
    <meta property="og:url" content="https://www.aswindow.in/" />
    <meta property="og:site_name" content="uPVC Doors and Windows Delhi NCR" />
    <meta property="og:description" content="AS Window is one of the best uPVC Doors and Windows Delhi NCR. It provides quality uPVC doors and windows with guarantees. Contact for uPVC window and door." />

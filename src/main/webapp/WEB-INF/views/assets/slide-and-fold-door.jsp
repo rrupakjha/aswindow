@@ -2,8 +2,8 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Best uPVC Windows & uPVC Doors Manufacturers Company</title>
-<meta name="description" content="Explore premium slide and fold doors by AS Windows in Delhi NCR. Stylish, space-saving and durable UPVC & aluminium folding door solutions for homes and offices.">
+<title>Premium Slide & Fold Door Solutions </title>
+<meta name="description" content="Discover stylish, space-saving slide and fold door solutions by AS Window. Expert craftsmanship, smooth operation, durable materials, and modern designs.">
 <!-- Stylesheets -->
 <%@include file="head.jsp" %>
 </head>

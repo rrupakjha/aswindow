@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>uPVC Windows Manufacturers Gurugram | uPVC Windows Manufacturers</title>
-<meta name="description" content="AS Window, best uPVC Windows manufactures in Gurugram and have installed uPVC windows and doors all over Delhi NCR. They provide the superior Quality uPVC Doors and Windows at the best price."/>
+<title>Premium Sliding Window in Delhi</title>
+<meta name="description" content="Explore premium sliding window solutions by AS Window, offering smooth operation, modern designs, enhanced ventilation, energy efficiency, and lasting durability."/>
 	<meta name="keywords" content="uPVC Windows Manufacturers Gurugram, uPVC Windows Manufacturers Delhi, AS Window"/> 
 	<meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-   <meta property="og:title" content="uPVC Windows Manufacturers Gurugram" />
+   <meta property="og:title" content="Premium Sliding Window in Delhi" />
    <meta property="og:url" content="https://www.aswindow.in/" />
    <meta property="og:site_name" content="uPVC Windows Manufacturers Gurugram" />
    <meta property="og:description" content="AS Window, we are well-reckoned best Quality manufacturer and provider of aluminum, uPVC Window Suppliers in Gurugram." />

@@ -2,8 +2,8 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Best uPVC Windows & uPVC Doors Manufacturers Company</title>
-<meta name="description" content="AS Windows offers elegant bay windows in Delhi NCR designed for better ventilation, natural light and modern aesthetics with premium UPVC window solutions.">
+<title>Modern Bay Window Designs for Homes</title>
+<meta name="description" content="Enhance your home with elegant bay window designs from AS Window. Enjoy more natural light, wider views, energy efficiency, and lasting durability.">
 <!-- Stylesheets -->
 <%@include file="head.jsp" %>
 </head>

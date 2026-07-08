@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>uPVC Doors Manufacturers in Delhi | uPVC Doors Manufacturers</title>
-<meta name="description" content="AS Window is the top company Which Manufacture and Supply uPVC, uPVC Doors Manufacturers in Delhi Gurgaon and NCR."/>
+<title>Premium Sliding Door Solutions</title>
+<meta name="description" content="Discover premium sliding door solutions by AS Window, combining elegant designs, smooth operation, space-saving functionality, durability, and lasting performance."/>
 	<meta name="keywords" content="uPVC Doors Manufacturers in Delhi, uPVC Doors Manufacturers, AS Window"/> 
 	<meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-   <meta property="og:title" content="uPVC Doors Manufacturers in Delhi" />
+   <meta property="og:title" content="Premium Sliding Door Solutions" />
    <meta property="og:url" content="https://www.aswindow.in/" />
    <meta property="og:site_name" content="uPVC Doors Manufacturers in Delhi" />
    <meta property="og:description" content="AS Window is the top company Which Manufacture and Supply uPVC, uPVC Doors Manufacturers in Delhi Gurgaon and NCR." />

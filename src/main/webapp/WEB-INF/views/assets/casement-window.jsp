@@ -2,12 +2,12 @@
 <html>
 
 <meta charset="utf-8">
-<title>uPVC Window Suppliers in Gurugram | uPVC Window Suppliers</title>
-<meta name="description" content="AS Window, we are well-reckoned best Quality manufacturer and provider of aluminum, uPVC Window Suppliers in Gurugram."/>
+<title>Elegant Casement Windows for Every Home</title>
+<meta name="description" content="Transform your space with beautifully crafted casement windows that offer fresh airflow, clear views, reliable security, and timeless style for every home."/>
 	<meta name="keywords" content="uPVC Window Suppliers in Gurugram, uPVC Window Suppliers in Delhi, uPVC Window Suppliers, AS Window"/> 
 	<meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-   <meta property="og:title" content="uPVC Window Suppliers in Gurugram" />
+   <meta property="og:title" content="Elegant Casement Windows for Every Home" />
    <meta property="og:url" content="https://www.aswindow.in/" />
    <meta property="og:site_name" content="uPVC Window Suppliers in Gurugram" />
    <meta property="og:description" content="AS Window, we are well-reckoned best Quality manufacturer and provider of aluminum, uPVC Window Suppliers in Gurugram." />

@@ -2,8 +2,8 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Best uPVC Windows & uPVC Doors Manufacturers Company</title>
-<meta name="description" content="Get premium tilt and turn windows in Delhi NCR from AS Windows. Energy-efficient, secure and stylish UPVC window solutions for modern homes and offices.">
+<title>Smart Tilt & Turn Windows</title>
+<meta name="description" content="Experience versatile tilt and turn windows designed for easy ventilation, effortless cleaning, enhanced security, and a sleek modern appearance.">
 <!-- Stylesheets -->
 <%@include file="head.jsp" %>
 </head>
